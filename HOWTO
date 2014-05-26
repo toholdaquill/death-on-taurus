@@ -1,0 +1,19 @@
+HOWTO
+=====
+
+Grab yourself a copy of death-on-taurus.html. This is the master file. Then download Calibre:
+
+  http://calibre-ebook.com/download
+  
+Run:
+
+  ebook-convert death-on-taurus.html death-on-taurus.epub
+  
+or if you're a Kindle user:
+
+    ebook-convert death-on-taurus.html death-on-taurus.mobi
+    
+Calibre's full command-line interface is documented here:
+
+  http://manual.calibre-ebook.com/cli/ebook-convert.html
+

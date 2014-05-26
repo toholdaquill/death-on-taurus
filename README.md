@@ -1,3 +1,5 @@
+![Death on Taurus cover](death-on-taurus-cover.jpg)
+
 death-on-taurus
 ===============
 
@@ -14,7 +16,7 @@ See HOWTO for conversion instructions.
 book details
 ============
 
-Title: Death on Taurus
+Title: *Death on Taurus*
 
 Genre: Science Fiction
 
@@ -22,7 +24,7 @@ Word Count: 75,000
 
 Book Description:
 
-On Taurus, there's only one good way to die.
+**On Taurus, there's only one good way to die.**
 
 On the bullfighting planet of Taurus, in the far distant future, a genetically engineered race of half-man, half-bull stages ritual blood sacrifices to the gods—human viewers light-years away. Vizzer, the high priest who presides over the daily slaughter, loathes the fights and wants to end them.
 

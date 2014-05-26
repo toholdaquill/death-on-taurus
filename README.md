@@ -11,6 +11,8 @@ And if you're broke? Tell a friend. Or even better, leave a review. :)
 
 See HOWTO for conversion instructions.
 
+book details
+============
 
 Title: Death on Taurus
 Genre: Science Fiction

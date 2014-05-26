@@ -15,7 +15,9 @@ book details
 ============
 
 Title: Death on Taurus
+
 Genre: Science Fiction
+
 Word Count: 75,000
 
 Book Description:

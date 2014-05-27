@@ -1,7 +1,8 @@
 HOWTO
 =====
 
-Grab yourself a copy of death-on-taurus.html. This is the master file. Then download Calibre:
+Grab yourself a copy of death-on-taurus.html. This is the master file.
+Then download Calibre:
 
     http://calibre-ebook.com/download
   

@@ -8,12 +8,12 @@ Then download Calibre:
   
 Run:
 
-    ebook-convert death-on-taurus.html death-on-taurus.epub /
+    ebook-convert death-on-taurus.html death-on-taurus.epub \
     --cover death-on-taurus-cover.jpg 
   
 or if you're a Kindle user:
 
-    ebook-convert death-on-taurus.html death-on-taurus.mobi /
+    ebook-convert death-on-taurus.html death-on-taurus.mobi \
     --cover death-on-taurus-cover.jpg 
     
 Calibre's full command-line interface is documented here:

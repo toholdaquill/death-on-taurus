@@ -5,15 +5,6 @@ death-on-taurus
 
 Welcome to my series of GitHub novels.
 
-As a ex-hacker turned novelist, I license all my work Creative Commons.
-So why not release my work on GitHub?
-
-If you like the book, hit me up with some Bitcoin:
-
-    15XckuDQB9yDxaBWCuA38vdsjZowGKUz45
-
-And if you're broke? Tell a friend. Or even better, leave a review. :)
-
 See HOWTO for conversion instructions.
 
 book details
